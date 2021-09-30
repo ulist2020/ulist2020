@@ -13,9 +13,18 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
+<img align="left" alt="React.js" width="26px" src="https://img.icons8.com/office/16/000000/react.png"/>
 <img align="left" alt="Vsual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
-<img align="left" alt="Vsual Studio Code" width="26px" src="https://www.cesarsotovalero.net/img/git_logo.png"/>
+<img align="left" alt="Git" width="26px" src="https://www.cesarsotovalero.net/img/git_logo.png"/>
+<img align="left" alt="Figma" width="26px" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 <br/>  
+
+### Моё портфолио:  
+ 
+📌 http://diplom.ulist.project-hub.ru  
+📌 http://mesto.ulist.project-hub.ru  
+📌 https://ulist2020.github.io/russian-travel/index.html
+
 
 ### Моя статистика:
 
