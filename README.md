@@ -21,9 +21,12 @@
 
 ### Моё портфолио:  
  
+React  
 📌 http://diplom.ulist.project-hub.ru  
-📌 http://mesto.ulist.project-hub.ru  
-📌 https://ulist2020.github.io/russian-travel/index.html
+📌 http://mesto.ulist.project-hub.ru   
+Вёрстка  
+📌 https://ulist2020.github.io/russian-travel/index.html  
+📌 https://ulist2020.github.io/Cats
 
 
 ### Моя статистика:
