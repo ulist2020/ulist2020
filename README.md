@@ -26,7 +26,8 @@ React
 📌 http://diplom.ulist.project-hub.ru  
 📌 http://mesto.ulist.project-hub.ru   
 Вёрстка  
-📌 https://ulist2020.github.io/russian-travel/index.html  
+📌 https://ulist2020.github.io/russian-travel/index.html   
+📌 https://ulist2020.github.io/Ameton  
 📌 https://ulist2020.github.io/Cats
 
 
