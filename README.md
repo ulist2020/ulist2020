@@ -23,6 +23,7 @@
 ### Моё портфолио:  
  
 React  
+📌 https://blisstm.ru  
 📌 http://diplom.ulist.project-hub.ru  
 📌 http://mesto.ulist.project-hub.ru   
 Вёрстка  
